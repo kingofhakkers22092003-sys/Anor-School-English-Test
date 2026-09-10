@@ -1,0 +1,308 @@
+{
+  "Grammatika": [
+    {
+      "id": "g1",
+      "prompt": "Choose the correct word: If I ___ enough time, I will help you after class.",
+      "options": [
+        "have",
+        "had",
+        "will have"
+      ],
+      "answer": "0"
+    },
+    {
+      "id": "g2",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "She doesn't likes science.",
+        "She doesn't like science.",
+        "She don't like science."
+      ],
+      "answer": "1"
+    },
+    {
+      "id": "g3",
+      "prompt": "Complete the sentence: There ___ two books and a notebook on the desk.",
+      "options": [
+        "is",
+        "are",
+        "was"
+      ],
+      "answer": "1"
+    },
+    {
+      "id": "g4",
+      "prompt": "My sister ___ English for three years.",
+      "options": [
+        "studies",
+        "has studied",
+        "is studying yesterday"
+      ],
+      "answer": "1"
+    },
+    {
+      "id": "g5",
+      "prompt": "Choose the best question for this answer: “I went to Samarkand by train.”",
+      "options": [
+        "Where did you go?",
+        "How did you go to Samarkand?",
+        "When you went?"
+      ],
+      "answer": "1"
+    },
+    {
+      "id": "g6",
+      "prompt": "By the time we arrived, the film ___.",
+      "options": [
+        "started",
+        "had started",
+        "has started"
+      ],
+      "answer": "1"
+    },
+    {
+      "id": "g7",
+      "prompt": "Choose the correct comparative sentence.",
+      "options": [
+        "This exercise is more easy than the last one.",
+        "This exercise is easier than the last one.",
+        "This exercise is easiest than the last one."
+      ],
+      "answer": "1"
+    },
+    {
+      "id": "g8",
+      "prompt": "You ___ wear a seat belt in a car; it is the law.",
+      "options": [
+        "must",
+        "might",
+        "could"
+      ],
+      "answer": "0"
+    },
+    {
+      "id": "g9",
+      "prompt": "Which sentence is in the passive voice?",
+      "options": [
+        "The students completed the project.",
+        "The project was completed by the students.",
+        "The students were completing the project."
+      ],
+      "answer": "1"
+    },
+    {
+      "id": "g10",
+      "prompt": "I am interested ___ learning about other cultures.",
+      "options": [
+        "on",
+        "in",
+        "at"
+      ],
+      "answer": "1"
+    }
+  ],
+  "Tinglash": [
+    {
+      "id": "l1",
+      "prompt": "What is the speaker's name?",
+      "audioText": "Hello, my name is Daniel. I am in Year Six.",
+      "options": [
+        "David",
+        "Daniel",
+        "Diana"
+      ],
+      "answer": "1"
+    },
+    {
+      "id": "l2",
+      "prompt": "What day is the school trip?",
+      "audioText": "The school trip to the science museum is on Friday, not Thursday.",
+      "options": [
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "answer": "1"
+    },
+    {
+      "id": "l3",
+      "prompt": "Why is Maya late?",
+      "audioText": "Maya missed the bus because she could not find her homework.",
+      "options": [
+        "She overslept.",
+        "She missed the bus.",
+        "She was ill."
+      ],
+      "answer": "1"
+    },
+    {
+      "id": "l4",
+      "prompt": "What does the speaker want to borrow?",
+      "audioText": "Could I borrow your blue dictionary for my English homework, please?",
+      "options": [
+        "A blue dictionary",
+        "A maths book",
+        "A pen"
+      ],
+      "answer": "0"
+    },
+    {
+      "id": "l5",
+      "prompt": "Where will the family have lunch?",
+      "audioText": "It may rain, so instead of having lunch in the park, we will eat at the cafe near the library.",
+      "options": [
+        "In the park",
+        "At the cafe",
+        "At home"
+      ],
+      "answer": "1"
+    },
+    {
+      "id": "l6",
+      "prompt": "What has the speaker already done?",
+      "audioText": "I have finished my history project, but I still need to revise for the English test.",
+      "options": [
+        "Finished a history project",
+        "Revised for English",
+        "Started a science project"
+      ],
+      "answer": "0"
+    },
+    {
+      "id": "l7",
+      "prompt": "How often does Tom practise the guitar?",
+      "audioText": "Tom practises the guitar every evening except on Sundays, when he visits his grandparents.",
+      "options": [
+        "Every day",
+        "Every evening except Sunday",
+        "Only on Sundays"
+      ],
+      "answer": "1"
+    },
+    {
+      "id": "l8",
+      "prompt": "What is the teacher asking students to do?",
+      "audioText": "Please read pages twelve to fifteen before tomorrow's lesson and write down two new words.",
+      "options": [
+        "Read and note new words",
+        "Finish a project",
+        "Bring a dictionary"
+      ],
+      "answer": "0"
+    }
+  ],
+  "O‘qish": [
+    {
+      "id": "r1",
+      "prompt": "Why did Emma join the Green Club?",
+      "options": [
+        "To make new friends",
+        "To help the environment",
+        "To learn computer skills"
+      ],
+      "answer": "1"
+    },
+    {
+      "id": "r2",
+      "prompt": "What did the club do first?",
+      "options": [
+        "Planted trees",
+        "Collected rubbish",
+        "Made posters"
+      ],
+      "answer": "1"
+    },
+    {
+      "id": "r3",
+      "prompt": "What does “reusable” mean in the text?",
+      "options": [
+        "Used only once",
+        "Able to be used again",
+        "Very expensive"
+      ],
+      "answer": "1"
+    },
+    {
+      "id": "r4",
+      "prompt": "Which item did the club NOT collect?",
+      "options": [
+        "Plastic bottles",
+        "Old paper",
+        "Glass jars"
+      ],
+      "answer": "2"
+    },
+    {
+      "id": "r5",
+      "prompt": "How did Emma feel after the activity?",
+      "options": [
+        "Proud",
+        "Bored",
+        "Angry"
+      ],
+      "answer": "0"
+    },
+    {
+      "id": "r6",
+      "prompt": "What will the club probably do next month?",
+      "options": [
+        "Organise another clean-up",
+        "Close the club",
+        "Visit a museum"
+      ],
+      "answer": "0"
+    },
+    {
+      "id": "r7",
+      "prompt": "Which statement is true?",
+      "options": [
+        "The clean-up happened on Saturday morning.",
+        "Only teachers took part.",
+        "The club threw the rubbish away without sorting it."
+      ],
+      "answer": "0"
+    },
+    {
+      "id": "r8",
+      "prompt": "What is the main purpose of the text?",
+      "options": [
+        "To describe a school environmental activity",
+        "To advertise a new shop",
+        "To explain how to make a bottle"
+      ],
+      "answer": "0"
+    }
+  ],
+  "Yozish": [
+    {
+      "id": "w1",
+      "prompt": "Put the words in the correct order and write one complete sentence: every / I / English / study / day"
+    },
+    {
+      "id": "w2",
+      "prompt": "Write 4–5 sentences about your school day. Include what time you arrive, your favourite subject and one activity you do after school."
+    },
+    {
+      "id": "w3",
+      "prompt": "Write an email of 50–70 words to a new English-speaking friend. Introduce yourself and ask two questions about their hobbies or school."
+    },
+    {
+      "id": "w4",
+      "prompt": "Translate into English: “Kecha yomg‘ir yog‘gani uchun biz futbol o‘ynay olmadik.”"
+    }
+  ],
+  "Gapirish": [
+    {
+      "id": "s1",
+      "prompt": "Introduce yourself in English. Say your name, class, favourite subject and two activities you enjoy."
+    },
+    {
+      "id": "s2",
+      "prompt": "Talk for about one minute about a memorable day at school or with your family. Explain what happened and why you remember it."
+    },
+    {
+      "id": "s3",
+      "prompt": "Your friend wants to improve their English. Give at least three useful pieces of advice in English."
+    }
+  ]
+}

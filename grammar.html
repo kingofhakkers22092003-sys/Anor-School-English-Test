@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="uz">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <title>Grammatika · Anor School</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Serif+SC:wght@600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body class="test-page" data-section="Grammatika">
+    <header class="site-header">
+      <a class="brand" href="index.html"
+        ><span class="brand-mark">✦</span
+        ><span
+          ><strong>Anor</strong><small>INTERNATIONAL SCHOOL</small></span
+        ></a
+      ><a class="back-link" href="index.html">← Bosh sahifa</a>
+    </header>
+    <main class="test-main">
+      <section class="test-intro grammar-theme">
+        <p class="eyebrow">01 · GRAMMAR</p>
+        <h1>Grammatika testi</h1>
+        <p>To‘g‘ri javobni tanlang. Har savol 1 ball.</p>
+      </section>
+      <form class="test-form choice-test">
+        <div class="question" data-answer="A">
+          <span class="question-number">SAVOL 01</span>
+          <h2>“Men o‘quvchiman” jumlasining to‘g‘ri tarjimasi qaysi?</h2>
+          <div class="options">
+            <label class="option"
+              ><input type="radio" name="q1" value="A" />A. 我是学生。</label
+            ><label class="option"
+              ><input type="radio" name="q1" value="B" />B. 我学生是。</label
+            ><label class="option"
+              ><input type="radio" name="q1" value="C" />C. 我是的学生。</label
+            >
+          </div>
+        </div>
+        <div class="question" data-answer="B">
+          <span class="question-number">SAVOL 02</span>
+          <h2>Bo‘sh joyni to‘ldiring: 她___中国人。 (U xitoylik.)</h2>
+          <div class="options">
+            <label class="option"
+              ><input type="radio" name="q2" value="A" />A. 很</label
+            ><label class="option"
+              ><input type="radio" name="q2" value="B" />B. 是</label
+            ><label class="option"
+              ><input type="radio" name="q2" value="C" />C. 在</label
+            >
+          </div>
+        </div>
+        <div class="question" data-answer="C">
+          <span class="question-number">SAVOL 03</span>
+          <h2>“Men maktabga boraman” jumlasini toping.</h2>
+          <div class="options">
+            <label class="option"
+              ><input type="radio" name="q3" value="A" />A. 我学校去。</label
+            ><label class="option"
+              ><input type="radio" name="q3" value="B" />B. 我去的学校。</label
+            ><label class="option"
+              ><input type="radio" name="q3" value="C" />C. 我去学校。</label
+            >
+          </div>
+        </div>
+        <div class="question" data-answer="A">
+          <span class="question-number">SAVOL 04</span>
+          <h2>“吗” so‘roq yuklamasi qaysi gapda to‘g‘ri ishlatilgan?</h2>
+          <div class="options">
+            <label class="option"
+              ><input type="radio" name="q4" value="A" />A. 你是老师吗？</label
+            ><label class="option"
+              ><input type="radio" name="q4" value="B" />B. 吗你是老师？</label
+            ><label class="option"
+              ><input type="radio" name="q4" value="C" />C. 你吗是老师？</label
+            >
+          </div>
+        </div>
+        <button class="primary-button submit-test grammar-theme" type="submit">
+          Javoblarni tekshirish →
+        </button>
+        <div id="testResult" class="result-box"></div>
+      </form>
+    </main>
+    <footer class="credit-footer">Created by Mamadaminov</footer>
+    <script src="app.js"></script>
+  </body>
+</html>
